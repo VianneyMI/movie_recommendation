@@ -1,0 +1,51 @@
+,movieId,title,genres,year
+196,198,Strange Days,"['Action', 'Crime', 'Drama', 'Mystery', 'Sci-Fi', 'Thriller']",1995
+455,459,"Getaway, The","['Action', 'Adventure', 'Crime', 'Drama', 'Romance', 'Thriller']",1994
+1365,1396,Sneakers,"['Action', 'Comedy', 'Crime', 'Drama', 'Sci-Fi']",1992
+1824,1907,Mulan,"['Adventure', 'Animation', 'Children', 'Comedy', 'Drama', 'Musical', 'Romance']",1998
+4625,4719,Osmosis Jones,"['Action', 'Animation', 'Comedy', 'Crime', 'Drama', 'Romance', 'Thriller']",2001
+4861,4956,"Stunt Man, The","['Action', 'Adventure', 'Comedy', 'Drama', 'Romance', 'Thriller']",1980
+4923,5018,Motorama,"['Adventure', 'Comedy', 'Crime', 'Drama', 'Fantasy', 'Mystery', 'Sci-Fi', 'Thriller']",1991
+5559,5657,Flashback,"['Action', 'Adventure', 'Comedy', 'Crime', 'Drama']",1990
+6793,6902,Interstate 60,"['Adventure', 'Comedy', 'Drama', 'Fantasy', 'Mystery', 'Sci-Fi', 'Thriller']",2002
+6879,6990,The Great Train Robbery,"['Action', 'Adventure', 'Comedy', 'Crime', 'Drama']",1978
+7720,8253,Lupin III: The Castle Of Cagliostro (Rupan sansei: Kariosutoro no shiro),"['Action', 'Adventure', 'Animation', 'Comedy', 'Crime', 'Mystery']",1979
+8098,8780,"Assassination Bureau, The","['Action', 'Adventure', 'Comedy', 'Crime', 'Sci-Fi']",1969
+8605,26093,"Wonderful World of the Brothers Grimm, The","['Adventure', 'Animation', 'Children', 'Comedy', 'Drama', 'Fantasy', 'Musical', 'Romance']",1962
+9000,26701,Patlabor: The Movie (Kidô keisatsu patorebâ: The Movie),"['Action', 'Animation', 'Crime', 'Drama', 'Film-Noir', 'Mystery', 'Sci-Fi', 'Thriller']",1989
+9296,27344,Revolutionary Girl Utena: Adolescence of Utena (a.k.a. Revolutionary Girl Utena the Movie) (Shoujo kakumei Utena: Adolescence mokushiroku),"['Action', 'Adventure', 'Animation', 'Comedy', 'Drama', 'Fantasy', 'Romance']",1999
+9697,31367,"Chase, The","['Action', 'Adventure', 'Comedy', 'Crime', 'Romance', 'Thriller']",1994
+9797,31921,"Seven-Per-Cent Solution, The","['Adventure', 'Comedy', 'Crime', 'Drama', 'Mystery', 'Thriller']",1976
+10298,34435,Sholay,"['Action', 'Adventure', 'Comedy', 'Musical', 'Romance', 'Thriller']",1975
+11785,52287,Meet the Robinsons,"['Action', 'Adventure', 'Animation', 'Children', 'Comedy', 'Sci-Fi']",2007
+11806,52462,Aqua Teen Hunger Force Colon Movie Film for Theaters,"['Action', 'Adventure', 'Animation', 'Comedy', 'Fantasy', 'Mystery', 'Sci-Fi']",2007
+12720,59844,"Honor Among Thieves (Adieu l'ami) (Farewell, Friend)","['Action', 'Adventure', 'Crime', 'Drama', 'Mystery', 'Thriller']",1968
+13113,62999,Madagascar: Escape 2 Africa,"['Action', 'Adventure', 'Animation', 'Children', 'Comedy', 'IMAX']",2008
+13250,64645,The Wrecking Crew,"['Action', 'Adventure', 'Comedy', 'Crime', 'Drama', 'Thriller']",1968
+13552,67070,Army of One (Joshua Tree),"['Action', 'Adventure', 'Crime', 'Drama', 'Mystery', 'Thriller']",1993
+13812,69136,Don,"['Action', 'Comedy', 'Crime', 'Drama', 'Musical', 'Thriller']",1978
+13912,69644,Ice Age: Dawn of the Dinosaurs,"['Action', 'Adventure', 'Animation', 'Children', 'Comedy', 'Romance']",2009
+14397,71999,Aelita: The Queen of Mars (Aelita),"['Action', 'Adventure', 'Drama', 'Fantasy', 'Romance', 'Sci-Fi', 'Thriller']",1924
+15001,75408,Lupin III: Sweet Lost Night (Rupan Sansei: Sweet Lost Night),"['Action', 'Animation', 'Comedy', 'Crime', 'Drama', 'Mystery', 'Romance', 'Thriller']",2008
+15073,76153,Lupin III: First Contact (Rupan Sansei: Faasuto Kontakuto),"['Action', 'Animation', 'Comedy', 'Crime', 'Drama', 'Mystery', 'Romance', 'Thriller']",2002
+15562,79132,Inception,"['Action', 'Crime', 'Drama', 'Mystery', 'Sci-Fi', 'Thriller', 'IMAX']",2010
+16055,81132,Rubber,"['Action', 'Adventure', 'Comedy', 'Crime', 'Drama', 'Film-Noir', 'Horror', 'Mystery', 'Thriller', 'Western']",2010
+16504,83266,Kaho Naa... Pyaar Hai,"['Action', 'Adventure', 'Comedy', 'Drama', 'Mystery', 'Romance', 'Thriller']",2000
+16532,83349,"Green Hornet, The","['Action', 'Comedy', 'Crime', 'Fantasy', 'Thriller', 'IMAX']",2011
+16884,85261,Mars Needs Moms,"['Action', 'Adventure', 'Animation', 'Children', 'Comedy', 'Sci-Fi', 'IMAX']",2011
+17313,87222,Kung Fu Panda 2,"['Action', 'Adventure', 'Animation', 'Children', 'Comedy', 'IMAX']",2011
+18361,91542,Sherlock Holmes: A Game of Shadows,"['Action', 'Adventure', 'Comedy', 'Crime', 'Mystery', 'Thriller']",2011
+19799,97724,"Glamorous Life of Sachiko Hanai, The (Hatsujô kateikyôshi: sensei no aijiru)","['Action', 'Comedy', 'Drama', 'Fantasy', 'Mystery', 'Sci-Fi', 'War']",2003
+19873,97940,"Saint in London, The","['Action', 'Comedy', 'Crime', 'Drama', 'Mystery']",1939
+21403,103651,Tai Chi Hero,"['Action', 'Comedy', 'Drama', 'Fantasy', 'Sci-Fi', 'IMAX']",2012
+22095,106078,"Great Texas Dynamite Chase, The","['Action', 'Comedy', 'Crime', 'Drama', 'Romance']",1976
+22145,106240,Free Birds,"['Action', 'Adventure', 'Animation', 'Children', 'Comedy', 'Sci-Fi']",2013
+24528,115333,Charlie Chan in Panama,"['Adventure', 'Comedy', 'Crime', 'Drama', 'Mystery', 'Thriller']",1940
+24565,115479,"Whip Hand, The","['Action', 'Adventure', 'Crime', 'Drama', 'Sci-Fi', 'Thriller', 'War']",1951
+25218,117646,Dragonheart 2: A New Beginning,"['Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy', 'Thriller']",2000
+26108,121370,Happy New Year,"['Action', 'Comedy', 'Crime', 'Drama', 'Musical', 'Romance']",2014
+26442,122787,The 39 Steps,"['Action', 'Adventure', 'Comedy', 'Crime', 'Drama', 'Thriller']",1959
+26806,124681,Raffles,"['Adventure', 'Comedy', 'Crime', 'Drama', 'Romance', 'Thriller']",1939
+27514,127341,Longshot,"['Action', 'Comedy', 'Crime', 'Drama', 'Romance', 'Thriller']",2001
+32307,144338,Holiday,"['Action', 'Children', 'Comedy', 'Crime', 'Drama', 'Romance']",2006
+33914,150268,Dilwale,"['Action', 'Children', 'Comedy', 'Crime', 'Drama', 'Romance']",2015
