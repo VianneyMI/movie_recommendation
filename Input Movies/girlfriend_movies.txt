@@ -1,0 +1,11 @@
+"Avatar",9
+"Darknight Rises, The",9
+"Pirates of the Caribbean: Dead Man's Chest",8
+"Love Actually",7
+"Little Mermaid, The",9
+"Fast and the Furious, The",5
+"Inception",5
+"Ten Commandments, The",8
+"Sister Act 2: Back in the Habit",9
+"Freedom Writers",8
+
