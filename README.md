@@ -16,7 +16,7 @@ The app (executable) takes as an input a txt file with the user favorite movies 
 The output file will be a simple CSV in which the user can find a list of movie with a recommendation for each movie.
 
 ## Dataset
-The dataset that was provided by Coursera and origninated from <a href=https://grouplens.org/datasets/movielens/> GroupLens</a>. 
+The dataset that was provided by Coursera and originated from <a href=https://grouplens.org/datasets/movielens/> GroupLens</a>. 
 The dataset contains movies from 1874 to 2016. For each movie we have the release year and tags about the genres of the movie.
 
 ## Algorithm
